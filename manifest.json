@@ -1,8 +1,8 @@
 {
     "manifest_version": 3,
-    "name": "Universal Dark Mode",
+    "name": "darkMode",
     "version": "1.0",
-    "description": "A dark mode for all websites",
+    "description": "simple darkMode for chrome",
     "permissions": ["activeTab", "storage", "tabs", "scripting"],
     "action": {
         "default_popup": "popup.html",
